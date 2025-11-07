@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
       weight_g: 13,
       img: 'img/Sprite lata 330ml.jpg'
     },
-    '012000809478': {
+    '7801620009373': {
       name: 'Pepsi botella PET 600ml',
       material: 'Plástico PET',
       weight_g: 27,
@@ -408,6 +408,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
 
