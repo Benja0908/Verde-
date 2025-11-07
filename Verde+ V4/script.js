@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
       img: 'img/Coca-Cola 591ml.png'
     },
     // Código de un Nectar Andina 1.5L
-    '782820700275': {
+    '7802820700275': {
       name: 'Del Valle Piña 1L',
       material: 'TetraPak',
       weight_g: 26,
@@ -422,6 +422,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
 
