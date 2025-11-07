@@ -23,7 +23,93 @@ document.addEventListener("DOMContentLoaded", () => {
       material: 'TetraPak',
       weight_g: 26,
       img: 'img/Del Valle Pina 1L.png' 
+    },
+    '5449000000996': {
+      name: 'Coca-Cola lata 330ml',
+      material: 'Aluminio',
+      weight_g: 13,
+    },
+    '4890008100941': {
+      name: 'Coca-Cola botella PET 500ml',
+      material: 'Plástico PET',
+      weight_g: 25,
+    },
+    '9002490100094': {
+      name: 'Red Bull lata 250ml',
+      material: 'Aluminio',
+      weight_g: 11,
+    },
+    '038000138416': {
+      name: 'Pringles Original tubo 165g',
+      material: 'Cartón + metal + plástico',
+      weight_g: 40,
+    },
+    '000080177173': {
+      name: 'Nutella frasco 350g',
+      material: 'Vidrio + tapa plástica',
+      weight_g: 220,
+    },
+    '3068320113210': {
+      name: 'Evian botella 500ml',
+      material: 'Plástico PET',
+      weight_g: 24,
+    },
+    '5449000131805': {
+      name: 'Sprite lata 330ml',
+      material: 'Aluminio',
+      weight_g: 13,
+    },
+    '012000809478': {
+      name: 'Pepsi botella PET 600ml',
+      material: 'Plástico PET',
+      weight_g: 27,
+    },
+    '5449000131577': {
+      name: 'Fanta lata 350ml',
+      material: 'Aluminio',
+      weight_g: 13,
+    },
+    '070847017608': {
+      name: 'Monster Energy lata 473ml',
+      material: 'Aluminio',
+      weight_g: 15,
+    },
+    '6281006487690': {
+      name: 'Nestlé Pure Life botella 1L',
+      material: 'Plástico PET',
+      weight_g: 32,
+    },
+    '8712000051870': {
+      name: 'Heineken botella vidrio 330ml',
+      material: 'Vidrio verde',
+      weight_g: 210,
+    },
+    '7501064191986': {
+      name: 'Corona Extra botella vidrio 355ml',
+      material: 'Vidrio transparente',
+      weight_g: 220,
+    },
+    '028400042334': {
+      name: 'Lay’s Clásicas bolsa 140g',
+      material: 'Plástico metalizado',
+      weight_g: 7,
+    },
+    '3033490002203': {
+      name: 'Danone Yogurt vaso 125g',
+      material: 'Plástico PP',
+      weight_g: 8,
+    },
+    '7613035317046': {
+      name: 'Nescafé frasco 200g',
+      material: 'Vidrio + tapa metálica',
+      weight_g: 190,
+    },
+    '7802100001062': {
+      name: 'Del Valle Piña 1L',
+      material: 'TetraPak',
+      weight_g: 26,
     }
+    
   };
 
   // --- Guías de reciclaje ---
@@ -336,5 +422,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
