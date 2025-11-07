@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
     '7802820600209': {
       name: 'Agua Vital Sin Gas 600ml',
       material: 'PET',
-      weight_g: 30, // Peso aproximado
-      img: 'img/bottle.png'
+      weight_g: 12, // Peso aproximado
+      img: 'img/Agua Vital Sin Gas 600ml.png'
     },
     // Código de una Coca-Cola 591ml
     '7501055311270': {
@@ -333,5 +333,6 @@ document.addEventListener("DOMContentLoaded", () => {
       Quagga.start(); // Reiniciar la cámara para escanear otro
     };
   }
+
 
 });
