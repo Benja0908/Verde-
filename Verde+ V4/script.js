@@ -28,61 +28,73 @@ document.addEventListener("DOMContentLoaded", () => {
       name: 'Coca-Cola lata 330ml',
       material: 'Aluminio',
       weight_g: 13,
+      img: 'img/Coca-Cola-sabor-original-scaled.jpg'
     },
     '4890008100941': {
       name: 'Coca-Cola botella PET 500ml',
       material: 'Plástico PET',
       weight_g: 25,
+      img: 'img/Coca-Cola botella PET 500ml.png'
     },
     '9002490100094': {
       name: 'Red Bull lata 250ml',
       material: 'Aluminio',
       weight_g: 11,
+      img: 'img/Red Bull lata 250ml.webp'
     },
     '038000138416': {
       name: 'Pringles Original tubo 165g',
       material: 'Cartón + metal + plástico',
       weight_g: 40,
+      img: 'img/Pringles Original tubo 165g.jpg'
     },
     '5449000131805': {
       name: 'Sprite lata 330ml',
       material: 'Aluminio',
       weight_g: 13,
+      img: 'img/Sprite lata 330ml.jpg'
     },
     '012000809478': {
       name: 'Pepsi botella PET 600ml',
       material: 'Plástico PET',
       weight_g: 27,
+      img: 'img/Pepsi botella PET 600ml.jpg'
     },
     '5449000131577': {
       name: 'Fanta lata 350ml',
       material: 'Aluminio',
       weight_g: 13,
+      img: 'img/Fanta lata 350ml.png'
     },
     '070847017608': {
       name: 'Monster Energy lata 473ml',
       material: 'Aluminio',
       weight_g: 15,
+      img: 'img/Monster Energy lata 473ml.webp'
     },
     '8712000051870': {
       name: 'Heineken botella vidrio 330ml',
       material: 'Vidrio verde',
       weight_g: 210,
+      img: 'img/Heineken botella vidrio 330ml.webp'
     },
     '7501064191986': {
       name: 'Corona Extra botella vidrio 355ml',
       material: 'Vidrio transparente',
       weight_g: 220,
+      img: 'img/Corona Extra botella vidrio 355ml.webp'
     },
     '028400042334': {
       name: 'Lay’s Clásicas bolsa 140g',
       material: 'Plástico metalizado',
       weight_g: 7,
+      img: 'img/Lay’s Clásicas bolsa 140g.webp'
     },
     '7613035317046': {
       name: 'Nescafé frasco 200g',
       material: 'Vidrio + tapa metálica',
       weight_g: 190,
+      img: 'img/Nescafé frasco 200g.webp'
     },    
   };
 
@@ -396,6 +408,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+
 
 
 
